@@ -1,0 +1,8 @@
+codigo,restrictiva,ubicacion,descripcion,unidad,tipo,familia,stock_minimo,cantidad_inicial,ingresos,egresos,perdidas,total,observaciones,observacion_perdida
+100,N,A1,Chocolate de avellana Nutella,Kg,Dulce,Chocolate,10,56,2,0,2,56,serobaron2,Vacio
+101,S,A1,Chocolate de almendra,Kg,Dulces,Chocolate,10,56,2,0,0,58,Vacio,Vacio
+102,N,A1,Barritas,Gr,Cereales,Galleta,2,7,8,6,8,1,Solicitar Material,1
+103,N,A3,Chetos,unidad,Ricitos,Enbolsados,10,50,0,0,0,50,Stok a favor,Vacio
+105,N,Z1,Lays,Unidad,Ricitos,Enbolsados,5,20,2,0,0,22,Stok a favor,Vacio
+106,N,B1,Señorial,Unidad,Enbolsado,Ricitos,5,10,10,19,1,0,Solicitar Material,Perdida en bodega
+107,S,A1,Bombon,Unidad,Caramelo,Dulces,5,15,0,0,0,0,Vacio,Vacio
