@@ -508,7 +508,8 @@ menu()
 ~~~
 ---
 ## **Video en** _(Python)_
-[![ IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SOMEVIDEOID/0.jpg)]
+[![imagen_screen](alt_img.jpeg)](https://www.youtube.com/watch?v=HRv3DA2-LF8&ab_channel=VictorMacario "captura")
+<p style="text-align: center;">Haga click </p>
 ***
 
 ## **Documentacion externa sistema inventarios** _(C++)_
