@@ -1,1 +1,1 @@
-2 -> xmn34,Mandarinas,100.0,Ramiro,A,375.0,5
+2 -> asd123,Galletas,300.0,Juan,A,2250.0,10

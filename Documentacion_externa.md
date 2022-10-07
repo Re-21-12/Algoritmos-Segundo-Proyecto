@@ -509,7 +509,16 @@ menu()
 ---
 ## **Video en** _(Python)_
 [![imagen_screen](alt_img.jpeg)](https://www.youtube.com/watch?v=HRv3DA2-LF8&ab_channel=VictorMacario "captura")
-<p style="text-align: center;">Haga click </p>
+<p style="text-align: center;" target="_blank">Haga click </p>
+
+---
+## **Captura de resultado en:** _(Python)_
+  1. Agregar un producto ![agregar_producto](/Capturas_Py/WhatsApp%20Image%202022-10-06%20at%206.11.10%20PM.jpeg)
+  2. Buscar un producto ![buscar_producto](/Capturas_Py/WhatsApp%20Image%202022-10-06%20at%206.11.10%20PM%20(1).jpeg)
+  3. Modificar un producto ![modificar_producto](/Capturas_Py/WhatsApp%20Image%202022-10-06%20at%206.11.10%20PM%20(2).jpeg)
+  4. Producto Csv ![producto_csv](/Capturas_Py/WhatsApp%20Image%202022-10-06%20at%206.11.10%20PM%20(4).jpeg)
+  5. Salida Txt ![salida_txt](/Capturas_Py/WhatsApp%20Image%202022-10-06%20at%206.11.10%20PM%20(3).jpeg)
+   
 
 ***
 
