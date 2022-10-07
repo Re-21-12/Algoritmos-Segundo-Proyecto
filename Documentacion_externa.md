@@ -523,6 +523,15 @@ menu()
 ***
 
 ## **Documentacion externa sistema inventarios** _(C++)_
-![A python image language](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png "Pythom_img")
+![A python image language](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png "C++_img")
+
+
 ## **Video en** _(C++)_
-[![ IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SOMEVIDEOID/0.jpg)]
+[![imagen_screen](/Capturas_C%2B%2B/WhatsApp%20Image%202022-10-07%20at%209.33.51%20AM.jpeg)](https://youtu.be/1AP6gRQXqds "captura")
+<p style="text-align: center;" target="_blank">Haga click </p>
+
+## **Captura de resultado en:** _(Python)_
+ 1. Agregar un producto ![agregar_producto](/Capturas_C++/WhatsApp%20Image%202022-10-07%20at%209.33.51%20AM.jpeg)
+ 2. Salida del producto a txt ![salida_producto](/Capturas_C++/WhatsApp%20Image%202022-10-07%20at%209.34.19%20AM.jpeg)
+ 3. Buscar un producto ![buscar_producto](/Capturas_C++/WhatsApp%20Image%202022-10-07%20at%209.34.28%20AM.jpeg)
+ 4. Modificar un producto ![modificar_producto](/Capturas_C++/WhatsApp%20Image%202022-10-07%20at%209.34.38%20AM.jpeg)
