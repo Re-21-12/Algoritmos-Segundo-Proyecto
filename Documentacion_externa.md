@@ -7,8 +7,8 @@
 ### José Miguel Arellano Bran       7690-22-5733
 ***
 
-# Link Git Hub:
-
+# Link GitHub:
+https://github.com/Re-21-12/Algoritmos-Segundo-Proyecto
 
 ## **Documentacion externa sistema inventarios** _(Python)_
 ![A python image language](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F5%2FPython-PNG-Pic.png&f=1&nofb=1&ipt=cbae4236b82f2be7007f59ac54d52cb040659dfd5a7f62dbf57dba49d21aad96&ipo=images "Pythom_img")
